@@ -35,7 +35,7 @@
 
 ## Python
 * _One of these days I should actually look into the syntax_
-* [Build a CRUD Web App With Python and Flask - Part One](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
+* [Build a CRUD Web App With Python and Flask](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
 
 ## Java
 * [Java Video Tutorial by Derek Banas](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
