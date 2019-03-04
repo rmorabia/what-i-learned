@@ -1,4 +1,4 @@
-# What I Learned (and the Resources I Used)
+# Resources I Used To Learn
 
 # 2018
 ## HTML/CSS
@@ -16,6 +16,7 @@
 
 ## React
 * [The Complete React Web Developer Course (with Redux) by Andrew Mead](https://www.udemy.com/react-2nd-edition/)
+* [Gatsby.js Tutorial](https://www.gatsbyjs.org/tutorial/)
 
 ## Vue
 * [Vue JS Essentials with Vuex and Vue Router by Stephen Grider](https://www.udemy.com/vue-js-course/)
