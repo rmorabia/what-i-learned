@@ -35,7 +35,7 @@
 * [SQL Crash Course - Beginner to Intermediate by Brad Traversy](https://www.youtube.com/watch?v=nWeW3sCmD2k&t=2241s)
 
 ## Python
-* _One of these days I should actually look into the syntax_
+* [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)
 * [Build a CRUD Web App With Python and Flask](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
 
 ## Java
