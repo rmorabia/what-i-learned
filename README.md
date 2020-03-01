@@ -40,3 +40,11 @@
 
 ## Java
 * [Java Video Tutorial by Derek Banas](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+
+# 2020
+
+## Node.js
+* [Learn and Understand NodeJS](https://www.udemy.com/course/understand-nodejs/)
+
+## Java
+* [Java Programming MOOC](https://java-programming.mooc.fi/)
