@@ -48,3 +48,17 @@
 
 ## Java
 * [Java Programming MOOC](https://java-programming.mooc.fi/)
+
+## CS & Algorithms
+
+* [InterviewCake](https://interviewcake.com)
+
+# 2022
+
+## Java
+
+* [Exercism](https://exercism.org)
+
+## CS & Algorithms
+
+* [Algorithms by Robert Sedgewick](https://algs4.cs.princeton.edu/home/) 
